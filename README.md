@@ -1,5 +1,4 @@
-# mastering-elastic-stack-code-files
-These repository is for code files of chapters of book - Mastering Elastic Stack by PACKT.
+## These repository is for code files of chapters of book - Mastering Elastic Stack by PACKT.
 
 The book is available at - https://www.packtpub.com/big-data-and-business-intelligence/mastering-elastic-stack
 
