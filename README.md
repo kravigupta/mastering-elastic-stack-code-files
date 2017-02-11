@@ -1,4 +1,5 @@
 # Mastering Elastic Stack
+#### Get the most out of Elastic stack for various complex analytics requirements using this comprehensive and practical guide
 ## These repository is for code files of chapters of book - Mastering Elastic Stack by PACKT.
 
 The book is available at - https://www.packtpub.com/big-data-and-business-intelligence/mastering-elastic-stack
