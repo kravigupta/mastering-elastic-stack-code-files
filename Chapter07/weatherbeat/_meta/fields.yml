@@ -1,0 +1,9 @@
+- key: weatherbeat
+  title: weatherbeat
+  description:
+  fields:
+    - name: counter
+      type: long
+      required: true
+      description: >
+        PLEASE UPDATE DOCUMENTATION

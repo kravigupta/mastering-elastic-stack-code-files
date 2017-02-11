@@ -1,0 +1,5 @@
+= Weatherbeat Docs
+
+Welcome to the Weatherbeat documentation.
+
+
